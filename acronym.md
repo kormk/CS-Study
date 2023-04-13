@@ -1,5 +1,5 @@
 
-# ISP: Internet Service Provider  
+# ISP: Internet Service Provider  [isp](#isp-internet-service-provider-isp)
 CP: Content Provider  
 IP: Internet Protocol  
 IETF: Internet Engineering Task Force  
