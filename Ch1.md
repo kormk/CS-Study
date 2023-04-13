@@ -8,4 +8,4 @@
   - 패킷스위치는 최종 목적지 방향으로 채킷을 전달한다. 
   - 라우터: 보통 접속 네트워크에서 사용
   - 링크 계층 스위치: 네트워크 코어에서 사용
-- 종단 시스템은 ISP()
+- 종단 시스템은 [ISP](https://github.com/kormk/Computer_Network/blob/main/acronym.md)  
