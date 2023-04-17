@@ -1,5 +1,4 @@
-
-# ISP: Internet Service Provider  [isp](#isp-internet-service-provider-isp)
+ISP: Internet Service Provider [isp](#isp)  
 CP: Content Provider  
 IP: Internet Protocol  
 IETF: Internet Engineering Task Force  
@@ -42,4 +41,3 @@ TFT: Tit For Tat
 DHT: Distribute Hast Table  
 DASH: Dynamic Adaptive Streaming over HTTP  
 CDN: Content Distribution Network  
- 
